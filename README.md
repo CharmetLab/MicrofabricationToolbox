@@ -2,7 +2,7 @@
 
 Hello,
 
-you will find the files and codes that complement the Low-Cost Microfabtrication Toolbox paper (to be published soon).
+you will find the files and codes that complement the Low-Cost Microfabtrication Toolbox paper (www.mdpi.com/2072-666X/11/2/135).
 
 
 Photolithograhy (Arduino Timer code: Timer_UV_LED_countdown.ino), 
